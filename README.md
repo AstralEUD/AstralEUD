@@ -5,7 +5,7 @@
 - 🌱 Language
   * SQF 
   * Python
-  * C (
+  * C (Now Studying)
   * etc..
 - 💬 Main Project 
    * Enemy Assault 2021
