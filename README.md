@@ -1,6 +1,7 @@
 ### Hi @everyone 👋
 
-![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true)
+![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)
 
 - 🌱 Language
   * SQF 
