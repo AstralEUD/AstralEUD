@@ -7,7 +7,6 @@
   * SQF 
   * Python
   * C (Now Studying)
-  * etc..
 - 💬 Main Project 
    * Enemy Assault 2021
 - 📫 Mail : eud28280@gmail.com
