@@ -1,5 +1,5 @@
 ### Hi @everyone 👋
-Dept of Computer Education
+Dept of Computer Education!
 
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)
