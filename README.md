@@ -9,8 +9,9 @@ Dept of Computer Education!
   * Python
   * C (Now Studying)
 - 💬 Main Project 
-   * Enemy Assault 2021
-- 📫 Mail : eud28280@gmail.com
+   * Enemy Assault 2021 (deprecated)
+   * C Programming Practice (at Dept of Computer Education
+- 📫 Mail : testify1118@gmail.com
 - 😄 Interested in
    * Computer Science
    * S/W (coding) Education
