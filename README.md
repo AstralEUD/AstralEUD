@@ -19,11 +19,11 @@ Dept of Computer Education!
    * Computer Science
    * S/W (coding) Education
 - 🏫 Studied at Andong National University, College of Education, Department of Computer Education (Now 1-1)
- * C Programming (Practice)
- * Introduction to Computer (컴퓨터개론)
- - 📒 Studied at another place
+ 	* C Programming (Practice)
+ 	* Introduction to Computer (컴퓨터개론)
+- 📒 Studied at another place
   * Open Source developing by Git/Github (at ANU Software Convergence Center)
   * Data Analyazing by Python (at ANU Software Convergence Center)
-  - 🧢 Experience
-   * Online Tutor at Science Education Institute for the Gifted, ANU (2022. 07.)
-   * AI/SW Mentor Team Lead at playSW (NAVER Connect Foundation) (2022. 06. ~ )
+- 🧢 Experience
+  * Online Tutor at Science Education Institute for the Gifted, ANU (2022. 07.)
+  * AI/SW Mentor Team Lead at playSW (NAVER Connect Foundation) (2022. 06. ~ )
