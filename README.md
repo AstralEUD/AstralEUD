@@ -1,6 +1,4 @@
 ### Hi @everyone 👋
-Dept of Computer Education!
-
 
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)<br/>
@@ -26,4 +24,4 @@ Dept of Computer Education!
   * Data Analyazing by Python (at ANU Software Convergence Center)
 - 🧢 Experience
   * Online Tutor at Science Education Institute for the Gifted, ANU (2022. 07.)
-  * AI/SW Mentor Team Lead at playSW (NAVER Connect Foundation) (2022. 06. ~ )
+  * AI/SW Mentor Team Lead at playSW (NAVER Connect Foundation) (2022. 05. ~ )
