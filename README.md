@@ -19,6 +19,7 @@
 - 🏫 Studied at Andong National University, College of Education, Department of Computer Education (Now 1-1)
  	* C Programming (Practice)
  	* Introduction to Computer (컴퓨터개론)
+ 	* Discrete Mathmatics
 - 📒 Studied at another place
   * Open Source developing by Git/Github (at ANU Software Convergence Center)
   * Data Analyazing by Python (at ANU Software Convergence Center)
