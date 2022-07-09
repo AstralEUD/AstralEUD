@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi @everyone 👋
 
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
@@ -26,3 +27,4 @@
 - 🧢 Experience
   * Online Tutor at Science Education Institute for the Gifted, ANU (2022. 07.)
   * AI/SW Mentor Team Lead at playSW (NAVER Connect Foundation) (2022. 05. ~ )
+</div>
