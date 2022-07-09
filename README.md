@@ -1,4 +1,3 @@
-
 ### Hi @everyone 👋
 <div align="center">
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
