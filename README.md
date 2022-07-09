@@ -1,11 +1,11 @@
 
 ### Hi @everyone 👋
-
+<div align="center">
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=testify1118)](https://solved.ac/testify1118)
-
+</div>
 - 🌱 Language
   * SQF 
   * Python
