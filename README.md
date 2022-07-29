@@ -12,7 +12,7 @@
   * Python<br/>
   * C (Now Studying)<br/>
 - 💬 Main Project <br/>
-   * Enemy Assault 2021 ()<br/>
+   * Enemy Assault 2021 <br/>
    * C Programming Practice <br/>
 - 📫 Mail : testify1118@gmail.com<br/>
 - 😄 Interested in<br/>
