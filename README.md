@@ -18,7 +18,7 @@
 - 😄 Interested in<br/>
    * Computer Science<br/>
    * S/W (coding) Education<br/>
-- 🏫 Studied at Andong National University, College of Education, Department of Computer Education<br/>
+- 🏫 Studied at College of Education, Department of Computer Education<br/>
  	* C Programming (Practice)<br/>
  	* Introduction to Computer (컴퓨터개론)<br/>
  	* Discrete Mathmatics<br/>
