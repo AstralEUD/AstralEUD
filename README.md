@@ -12,8 +12,12 @@
   * Python<br/>
   * C (Now Studying)<br/>
 - 💬 Main Project <br/>
-   * Enemy Assault 2021 <br/>
-   * C Programming Practice <br/>
+   * Enemy Assault 2021 (depecrated) <br/>
+- 💬 Side Project <br/>
+   * Dormitory Self-check Assistant <br/>
+- 💬 Assignment Store Repo
+   * C Programming Practice (CPP-I, CPP-II)
+   * Fusion Programming
 - 📫 Mail : testify1118@gmail.com<br/>
 - 😄 Interested in<br/>
    * Computer Science<br/>
