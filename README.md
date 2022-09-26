@@ -31,7 +31,7 @@
   * Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
   * Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 - 🧢 Experience<br/>
-  * Online Tutor @ Science Education Institute for the Gifted, ANU (2022. 07.)<br/>
   * AI/SW playSW Mentor Team Lead @ NAVER Connect Foundation (2022. 05. ~ )<br/>
+  * Online Tutor @ Science Education Institute for the Gifted, ANU (2022. 07.)<br/>
   * Educational Volunterring Team @ SW Convergnce Center, ANU (2022. 09. ~ 2022. 12.) <br/>
 
