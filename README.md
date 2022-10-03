@@ -1,5 +1,6 @@
 ### Hi @everyone 👋
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
  
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)<br/>
