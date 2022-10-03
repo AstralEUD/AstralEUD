@@ -11,25 +11,24 @@
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=testify1118)](https://solved.ac/testify1118)<br/>
 <br>
- 
-- 💬 Main Project <br/>
-   * Enemy Assault 2021 (depecrated) <br/>
-- 💬 Side Project <br/>
-   * Dormitory Self-check Assistant <br/>
-- 💬 Assignment Store Repo
-   * C Programming Practice (CPP-I, CPP-II)
-   * Fusion Programming
-- 📫 Mail : testify1118@gmail.com<br/>
-- 😄 Interested in<br/>
-   * Computer Science<br/>
-   * S/W (coding) Education<br/>
-- 🏫 Studied at College of Education, Department of Computer Education<br/>
- 	* C Programming (Practice)<br/>
- 	* Introduction to Computer (컴퓨터개론)<br/>
- 	* Discrete Mathmatics<br/>
-- 📒 Studied at another place<br/>
-  * Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
-  * Data Analyazing by Python (at ANU Software Convergence Center)<br/>
+
+<div align=center><h2>💬 Projects </h2></div>
+Enemy Assault 2021 (depecrated) <br/>
+Dormitory Self-check Assistant <br/>
+<div align=center><h2>📝 Assignments Repo </h2></div>
+C Programming Practice (CPP-I, CPP-II) <br/>
+Fusion Programming <br/>
+📫 Mail : testify1118@gmail.com<br/>
+😄 Interested in<br/>
+Computer Science<br/>
+S/W (coding) Education<br/>
+🏫 Studied at College of Education, Department of Computer Education<br/>
+C Programming (Practice)<br/>
+Introduction to Computer (컴퓨터개론)<br/>
+Discrete Mathmatics<br/>
+📒 Studied at another place<br/>
+Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
+Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
