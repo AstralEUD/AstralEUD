@@ -30,7 +30,7 @@ Discrete Mathmatics<br/>
 Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
 Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
-Experiences
+<div align=center><h2>Experiences </h2></div>
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
 | External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation              |
