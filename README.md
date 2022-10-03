@@ -19,8 +19,13 @@
 <br>
 
 <div align=center><h2>💬 Projects </h2></div>
-Enemy Assault 2021 (depecrated) <br/>
-Dormitory Self-check Assistant <br/>
+
+[C Programming Subject Assignment Repo](https://github.com/AstralEUD/C-Programming-Practice) <br/>
+[Problem Solving Repo](https://github.com/AstralEUD/Bakjoon-practice)<br/>
+[Dormitory Self-check Assistant](https://github.com/AstralEUD/anu_dorm_selfcheck) <br/>
+[High School Python project](https://github.com/AstralEUD/High_schhol_pythons) <br/>
+[Enemy Assault 2021 (depecrated)](https://github.com/AstralEUD/Enemy-Assault-2021) <br/>
+
 <div align=center><h2>📝 Studied as Official Subject </h2></div>
 C Programming Practice (CPP-I, CPP-II) <br/>
 Discrete Mathmatics <br/>
