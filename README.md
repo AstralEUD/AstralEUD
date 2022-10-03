@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 <br/>
  
-![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true)<br/>
- <br>
+![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)<br/>
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=testify1118)](https://solved.ac/testify1118)<br/>
