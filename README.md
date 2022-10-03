@@ -35,10 +35,13 @@
 - 📒 Studied at another place<br/>
   * Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
   * Data Analyazing by Python (at ANU Software Convergence Center)<br/>
-- 🧢 Experience<br/>
-  * AI/SW playSW Mentor Team Lead @ NAVER Connect Foundation (2022. 05. ~ )<br/>
-  * Online Tutor @ Science Education Institute for the Gifted, ANU (2022. 07.)<br/>
-  * Educational Volunterring Team @ SW Convergnce Center, ANU (2022. 09. ~ 2022. 12.) <br/>
+
+ | Type               | Date                  | Contents                                 | Org.                                  |
+|--------------------|-----------------------|------------------------------------------|---------------------------------------|
+| External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation              |
+| Work at School     | 2022. 07.             | T/A for Data Science                     | Sciecne Education for the GIfted, ANU |
+| Work at School     | 2022. 09. ~ 2022. 12. | Assistant for SW Education               | SW Convergence Center, ANU            |
+| Work at School     | 2022. 05. ~           | Reporter, at Dept. of Univ.              | ANUNEWS                               |
  
  </div>
 
