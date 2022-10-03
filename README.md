@@ -36,6 +36,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testify1118@gmail.com")
  
 <div align=center><h2>Experiences </h2></div>
+ 
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
 | External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation              |
