@@ -1,5 +1,6 @@
 ### Hi @everyone 👋
-
+<div align=center>
+ 
 <div align=center><h2>✍ stack </h2></div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"><br/>
@@ -37,4 +38,6 @@
   * AI/SW playSW Mentor Team Lead @ NAVER Connect Foundation (2022. 05. ~ )<br/>
   * Online Tutor @ Science Education Institute for the Gifted, ANU (2022. 07.)<br/>
   * Educational Volunterring Team @ SW Convergnce Center, ANU (2022. 09. ~ 2022. 12.) <br/>
+ 
+ </div>
 
