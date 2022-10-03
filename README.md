@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 <br/>
+ 
 ![Astral's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralEUD&count_private=true)<br/>
  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)<br/>
