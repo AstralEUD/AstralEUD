@@ -20,7 +20,7 @@ C Programming Practice (CPP-I, CPP-II) <br/>
 Discrete Mathmatics <br/>
 Introduction to Computer (컴퓨터개론) <br/>
 
-📒 Studied at another place<br/>
+ <div align=center><h2>📒 Studied as Un-Official Subject </h2></div>
 Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
 Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
