@@ -15,9 +15,10 @@
 <div align=center><h2>💬 Projects </h2></div>
 Enemy Assault 2021 (depecrated) <br/>
 Dormitory Self-check Assistant <br/>
-<div align=center><h2>📝 Assignments Repo </h2></div>
+<div align=center><h2>📝 Studied as Official Subject </h2></div>
 C Programming Practice (CPP-I, CPP-II) <br/>
-Fusion Programming <br/>
+Discrete Mathmatics
+Introduction to Computer (컴퓨터개론)
 📫 Mail : testify1118@gmail.com<br/>
 😄 Interested in<br/>
 Computer Science<br/>
@@ -29,6 +30,9 @@ Discrete Mathmatics<br/>
 📒 Studied at another place<br/>
 Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
 Data Analyazing by Python (at ANU Software Convergence Center)<br/>
+ 
+ <div align=center><h2>📫 Mail </h2></div>
+![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testify1118@gmail.com")
  
 <div align=center><h2>Experiences </h2></div>
 | Type               | Date                  | Contents                                 | Org.                                  |
