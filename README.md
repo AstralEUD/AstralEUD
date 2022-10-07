@@ -1,6 +1,5 @@
 ### Hi @everyone 👋 (이미지가 보이지 않으면 새로고침 해주세요)
 
-
 <div align=center>
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Testify&fontSize=90&animation=fadeIn&fontAlignY=38&desc=To%20be%20the%20Nice%20%Teacher&descAlignY=60&descAlign=62)
