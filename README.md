@@ -1,4 +1,4 @@
-### Hi @everyone 👋 (이미지가 보이지 않으면 새로고침 해주세요!)
+### Hi @everyone 👋 (이미지가 보이지 않으면 새로고침 해주세요)
 
 <div align=center>
  
