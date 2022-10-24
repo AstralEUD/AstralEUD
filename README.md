@@ -27,7 +27,7 @@
 
 <div align=center><h2>📝 Studied as Official Subject </h2></div>
 C Programming Practice (CPP-I, CPP-II) <br/>
-Discrete Mathmatics <br/>
+Discrete Mathmatics (이산수학) <br/>
 Introduction to Computer (컴퓨터개론) <br/>
 
  <div align=center><h2>📒 Studied as Un-Official Subject </h2></div>
