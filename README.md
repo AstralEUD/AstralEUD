@@ -46,6 +46,8 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 | Work at School     | 2022. 07.             | T/A for Data Science                     | Sciecne Education for the GIfted, ANU |
 | Work at School     | 2022. 09. ~ 2022. 12. | Assistant for SW Education               | SW Convergence Center, ANU            |
 
- </div>
+
+ 
+ <div align=center><h2>Awards </h2></div>
 
 <!-- Special Thx to HarimKang, for the table contents -->
