@@ -17,15 +17,19 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=testify1118)](https://solved.ac/testify1118)<br/>
 <br>
 
-<div align=center><h2>💬 Projects </h2></div>
+<div align=center><h2>💬 Repositories </h2></div>
 
+ (for Study) <br/>
 [C Programming Subject Assignment Repo](https://github.com/AstralEUD/C-Programming-Practice) <br/>
 [Problem Solving Repo](https://github.com/AstralEUD/Bakjoon-practice)<br/>
+[JavaScript Studying](https://github.com/AstralEUD/js-study) <br/>
+[Software & Problem Solving Subject Assigment Repo](https://github.com/AstralEUD/Software-and-Problem-Solving-Subject)<br/>
+ 
+ (Side Project)<br/>
 [Dormitory Self-check Assistant](https://github.com/AstralEUD/anu_dorm_selfcheck) <br/>
 [High School Python project](https://github.com/AstralEUD/High_schhol_pythons) <br/>
 [Enemy Assault 2021 (depecrated)](https://github.com/AstralEUD/Enemy-Assault-2021) <br/>
-[JavaScript Studying](https://github.com/AstralEUD/js-study) <br/>
-[Software & Problem Solving Subject Assigment Repo](https://github.com/AstralEUD/Software-and-Problem-Solving-Subject)<br/>
+
 
 <div align=center><h2>📝 Studied as Official Subject </h2></div>
 C Programming Practice (CPP-I, CPP-II) <br/>
