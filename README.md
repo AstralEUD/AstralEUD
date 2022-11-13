@@ -43,7 +43,8 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  <div align=center><h2>📫 Mail </h2></div>
  
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testify1118@gmail.com")
- 
+
+ <!-- Table https://www.tablesgenerator.com/markdown_tables -->
 <div align=center><h2>Experiences </h2></div>
  
 | Type               | Date                  | Contents                                 | Org.                                  |
@@ -55,5 +56,10 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 
  
  <div align=center><h2>Awards </h2></div>
+ 
+ | Date       | Contetns                                          | Grade                                 | As                         | Org.                             |
+|------------|---------------------------------------------------|---------------------------------------|----------------------------|----------------------------------|
+| 09/18/2022 | 75-seconds Univ & Dept. Promotional Video Contest | Creative (Given by President)         | Personal (Dept. Of COMEDU) | ANU                              |
+| 11/11/2022 | Portfolio Contest based on Github                 | Grand Prize (Given by Head of Center) | Personal                   | ANU, Software Convergence Center |
 
 <!-- Special Thx to HarimKang, for the table contents -->
