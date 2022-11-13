@@ -24,6 +24,8 @@
 [Dormitory Self-check Assistant](https://github.com/AstralEUD/anu_dorm_selfcheck) <br/>
 [High School Python project](https://github.com/AstralEUD/High_schhol_pythons) <br/>
 [Enemy Assault 2021 (depecrated)](https://github.com/AstralEUD/Enemy-Assault-2021) <br/>
+[JavaScript Studying](https://github.com/AstralEUD/js-study) <br/>
+[Software & Problem Solving Subject Assigment Repo](https://github.com/AstralEUD/Software-and-Problem-Solving-Subject)<br/>
 
 <div align=center><h2>📝 Studied as Official Subject </h2></div>
 C Programming Practice (CPP-I, CPP-II) <br/>
