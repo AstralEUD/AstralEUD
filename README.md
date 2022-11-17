@@ -59,7 +59,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
  | Date       | Contetns                                          | Grade                                 | As                         | Org.                             |
 |------------|---------------------------------------------------|---------------------------------------|----------------------------|----------------------------------|
-| 09/18/2022 | 75-seconds Univ & Dept. Promotional Video Contest | 4th Award (Creaitve) (Given by President)         | Personal (Dept. Of COMEDU) | ANU                              |
+| 09/18/2022 | 75-seconds Univ & Dept. Promotional Video Contest | 4th Award (Creative) (Given by President)         | Personal (Dept. Of COMEDU) | ANU                              |
 | 11/11/2022 | Portfolio Contest based on Github                 | Grand Prize (Given by Head of Center) | Personal                   | ANU, SW Convergence Center |
 
 <!-- Special Thx to HarimKang, for the table contents -->
