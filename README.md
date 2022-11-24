@@ -55,7 +55,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 
 
  
- <div align=center><h2>Awards </h2></div>
+ <div align=center><h2>🥇 Awards </h2></div>
  
  | Date       | Contetns                                          | Grade                                 | As                         | Org.                             |
 |------------|---------------------------------------------------|---------------------------------------|----------------------------|----------------------------------|
