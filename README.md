@@ -50,6 +50,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
 | External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation              |
+| Work at School     | 2022. 05. ~           | Reporter at Dept. of Univ.               | ANU Press (@ANUNEWS)                  |
 | Work at School     | 2022. 07.             | T/A for Data Science                     | Sciecne Education for the GIfted, ANU |
 | Work at School     | 2022. 09. ~ 2022. 12. | Assistant for SW Education               | SW Convergence Center, ANU            |
 
