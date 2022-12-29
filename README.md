@@ -32,9 +32,13 @@
 
 
 <div align=center><h2>📝 Studied as Official Subject </h2></div>
-C Programming Practice (CPP-I, CPP-II) <br/>
+C Programming (Practice) (C프로그래밍) <br/>
 Discrete Mathmatics (이산수학) <br/>
 Introduction to Computer (컴퓨터개론) <br/>
+Fusion Programming (융합프로그래밍/블록코딩) <br/>
+Software & Trouble Shooting (소프트웨어와 문제해결/파이썬&랩터) <br/> 
+Educational Program Development (교육용프로그램개발/애니메이트) <br/>
+Information Communication Ethics (정보통신윤리) <br/>
 
  <div align=center><h2>📒 Studied as Un-Official Subject </h2></div>
 Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
