@@ -53,7 +53,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
- | External activites | 2023. 01. ~          | Teaching AI & SW to Students, Team Lead Assist. | NAVER Connect Foundation (1784 School Revolution)|
+ | External activites | 2023. 01. ~  02.        | Teaching AI & SW to Students, Team Lead Assist. | NAVER Connect Foundation (1784 School Revolution)|
 | Volunteer          | 2023. 01. 04. ~ 18.   | Educational Volunteer at Indonesia       | ANU 8th Global Volunteer              |
 | External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation (2022 playsw)|
 | Work at School     | 2022. 05. ~           | Reporter at Dept. of Univ.               | ANU Press (@ANUNEWS)                  |
@@ -66,6 +66,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
  | Date       | Contetns                                          | Grade                                 | As                         | Org.                             |
 |------------|---------------------------------------------------|---------------------------------------|----------------------------|----------------------------------|
+| 03/10/2023 | 1784 School Revoultion, - Excellent Club Award    | 4th Award (활약상)                    | as Team (SWitch)           | NAVER Connect Foundation         |
 | 09/18/2022 | 75-seconds Univ & Dept. Promotional Video Contest | 4th Award (Creative) (Given by President)         | Personal (Dept. Of COMEDU) | ANU                              |
 | 11/11/2022 | Portfolio Contest based on Github                 | Grand Prize (Given by Head of Center) | Personal                   | ANU, SW Convergence Center |
 | 12/21/2022 | 2022 playSW - Excellent Club Award                | 3rd Award (Play With AI&DATA Prize)   | as Team (SWitch)           | Naver Connect Foundation   |
