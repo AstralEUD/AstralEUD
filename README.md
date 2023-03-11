@@ -56,7 +56,7 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  | External activites | 2023. 01. ~  02.        | Teaching AI & SW to Students, Team Lead Assist. | NAVER Connect Foundation (1784 School Revolution)|
 | Volunteer          | 2023. 01. 04. ~ 18.   | Educational Volunteer at Indonesia       | ANU 8th Global Volunteer              |
 | External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation (2022 playsw)|
-| Work at School     | 2022. 05. ~           | Reporter at Dept. of Univ.               | ANU Press (@ANUNEWS)                  |
+| Work at School     | 2022. 05. ~           | Reporter at Dept. of Univ.               | ANU Press (@anu.news)                  |
 | Work at School     | 2022. 07.             | T/A for Data Science                     | Sciecne Education for the GIfted, ANU |
 | Work at School     | 2022. 09. ~ 2022. 12. | Assistant for SW Education               | SW Convergence Center, ANU            |
 
