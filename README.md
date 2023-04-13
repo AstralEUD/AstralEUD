@@ -53,12 +53,13 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
- | External activites | 2023. 01. ~  02.        | Teaching AI & SW to Students, Team Lead Assist. | NAVER Connect Foundation (1784 School Revolution)|
-| Volunteer          | 2023. 01. 04. ~ 18.   | Educational Volunteer at Indonesia       | ANU 8th Global Volunteer              |
-| External activites | 2022. 05. ~ 2022. 12. | Teaching AI & SW to Students, Team Lead. | NAVER Connect Foundation (2022 playsw)|
-| Work at School     | 2022. 05. ~           | Reporter at Dept. of Univ.               | ANU Press (@anu.news)                  |
-| Work at School     | 2022. 07.             | T/A for Data Science                     | Sciecne Education for the GIfted, ANU |
-| Work at School     | 2022. 09. ~ 2022. 12. | Assistant for SW Education               | SW Convergence Center, ANU            |
+#| 교내활동 | 2023. 03. ~        | 산학프로젝트 (아누봇) 보조연구원 | 국립안동대학교 SW융합교육원 / 정보교과연구실 |
+| 대외활동 | 2023. 01. ~  02.        | AI & SW 교육 기획 및 운영 / 부팀장 | 네이버 커넥트재단 (1784 스쿨혁명)|
+| 봉사활동          | 2023. 01. 04. ~ 18.   | 인도네시아 교육.노력봉사(촬영기록팀)       | 국립안동대학교 제8기 해외봉사단 (학생지원과)              |
+| 대외활동 | 2022. 05. ~ 2022. 12. | AI & SW 교육 기획 및 운영 / 팀장| 네이버 커넥트재단 (2022 소프트웨어야 놀자 대학생 멘토)|
+| 교내활동     | 2022. 05. ~           | 대학부 정기자               | 국립안동대학교 언론사 (신문사)                  |
+| 교내활동     | 2022. 07.             | 실습조교 (데이터사이언스)                     | 국립안동대학교 대학부설과학영재교육원 |
+| 교내활동     | (2022)2022. 09. ~ 2022. 12. (2023)2023. 03. ~ 2023. 12. | SW가치확산봉사단               | 국립안동대학교 SW융합교육원            |
 
 
  
@@ -66,9 +67,9 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
  
  | Date       | Contetns                                          | Grade                                 | As                         | Org.                             |
 |------------|---------------------------------------------------|---------------------------------------|----------------------------|----------------------------------|
-| 03/10/2023 | 1784 School Revoultion, - Excellent Club Award    | 4th Award (활약상)                    | as Team (SWitch)           | NAVER Connect Foundation         |
-| 09/18/2022 | 75-seconds Univ & Dept. Promotional Video Contest | 4th Award (Creative) (Given by President)         | Personal (Dept. Of COMEDU) | ANU                              |
-| 11/11/2022 | Portfolio Contest based on Github                 | Grand Prize (Given by Head of Center) | Personal                   | ANU, SW Convergence Center |
-| 12/21/2022 | 2022 playSW - Excellent Club Award                | 3rd Award (Play With AI&DATA Prize)   | as Team (SWitch)           | Naver Connect Foundation   |
+| 03/10/2023 | 1784 스쿨혁명 우수동아리 시상    | 활약상                    | SWitch팀           | 네이버 커넥트재단         |
+| 09/18/2022 | 75초 학교학과영상공모전 | 크리에이티브상 (총장격)         | 개인 | 국립안동대학교 (대외협력과)                             |
+| 11/11/2022 | Github 기반 포트폴리오 경진대회                 | 대상 (원장격) | 개인                   | 국립안동대학교 SW융합교육원 |
+| 12/21/2022 | 2022 소프트웨어야 놀자 우수동아리 시상                | 우수상 (Play with AI&DATA 상)  | SWitch팀           | 네이버 커넥트재단   |
 
 <!-- Special Thx to HarimKang, for the table contents -->
