@@ -49,11 +49,11 @@ Data Analyazing by Python (at ANU Software Convergence Center)<br/>
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testify1118@gmail.com")
 
  <!-- Table https://www.tablesgenerator.com/markdown_tables -->
+ <!--| 교내활동 | 2023. 03. ~        | 산학프로젝트 (아누봇) 보조연구원 | 국립안동대학교 SW융합교육원 / 정보교과연구실 |-->
 <div align=center><h2>Experiences </h2></div>
  
 | Type               | Date                  | Contents                                 | Org.                                  |
 |--------------------|-----------------------|------------------------------------------|---------------------------------------|
-#| 교내활동 | 2023. 03. ~        | 산학프로젝트 (아누봇) 보조연구원 | 국립안동대학교 SW융합교육원 / 정보교과연구실 |
 | 대외활동 | 2023. 01. ~  02.        | AI & SW 교육 기획 및 운영 / 부팀장 | 네이버 커넥트재단 (1784 스쿨혁명)|
 | 봉사활동          | 2023. 01. 04. ~ 18.   | 인도네시아 교육.노력봉사(촬영기록팀)       | 국립안동대학교 제8기 해외봉사단 (학생지원과)              |
 | 대외활동 | 2022. 05. ~ 2022. 12. | AI & SW 교육 기획 및 운영 / 팀장| 네이버 커넥트재단 (2022 소프트웨어야 놀자 대학생 멘토)|
