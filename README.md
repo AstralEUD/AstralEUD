@@ -19,6 +19,9 @@
 
 <div align=center><h2>💬 Repositories </h2></div>
 
+(Research & Work)
+[ANUBOT (Data Crwaling & Vectorize)](https://github.com/ANU-CE/anubot-data-crawling) <br/>
+
  (for Study) <br/>
 [C Programming Subject Assignment Repo](https://github.com/AstralEUD/C-Programming-Practice) <br/>
 [Problem Solving Repo](https://github.com/AstralEUD/Bakjoon-practice)<br/>
@@ -31,25 +34,19 @@
 [Enemy Assault 2021 (depecrated)](https://github.com/AstralEUD/Enemy-Assault-2021) <br/>
 
 
-<div align=center><h2>📝 Studied as Official Subject </h2></div>
- - C Programming (Practice) (C프로그래밍) <br/>
+<div align=center><h2>📝 Studied Subjects </h2></div>
  - Discrete Mathmatics (이산수학) <br/>
- - Introduction to Computer (컴퓨터개론) <br/>
- - Fusion Programming (융합프로그래밍/블록코딩) <br/>
- - Software & Trouble Shooting (소프트웨어와 문제해결/파이썬&랩터) <br/> 
- - Educational Program Development (교육용프로그램개발/애니메이트) <br/>
  - Information Communication Ethics (정보통신윤리) <br/>
-
- <div align=center><h2>📒 Studied as Un-Official Subject </h2></div>
-Open Source developing by Git/Github (at ANU Software Convergence Center)<br/>
-Data Analyazing by Python (at ANU Software Convergence Center)<br/>
+ - Data Structure (자료구조) <br/>
+ - Logical Circuit (논리회로) <br/>
+ - UNIX Systems (유닉스시스템) <br/>
  
  <div align=center><h2>📫 Mail </h2></div>
  
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:testify1118@gmail.com")
 
  <!-- Table https://www.tablesgenerator.com/markdown_tables -->
- <!--| 교내활동 | 2023. 03. ~        | 산학프로젝트 (아누봇) 보조연구원 | 국립안동대학교 SW융합교육원 / 정보교과연구실 |-->
+ <!--| 교내활동 | 2023. 03. ~        | 산학프로젝트 (아누봇) 보조연구원 | 국립안동대학교 SW융합교육원 |-->
 <div align=center><h2>Experiences </h2></div>
  
 | Type               | Date                  | Contents                                 | Org.                                  |
