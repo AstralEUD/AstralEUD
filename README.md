@@ -15,6 +15,7 @@
 ![Astral's GitHub stats](http://github-readme-stats-astraleud.vercel.app/api?username=AstralEUD&count_private=true) <br/>
 ![Top Langs](http://github-readme-stats-astraleud.vercel.app/api/top-langs/?username=AstralEUD&layout=compact)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=testify1118)](https://solved.ac/testify1118)<br/>
+[![코드트리|실력진단-testify1118](https://banner.codetree.ai/v1/banner/testify1118)](https://www.codetree.ai/profiles/testify1118)
 <br>
 
 <div align=center><h2>💬 Repositories </h2></div>
