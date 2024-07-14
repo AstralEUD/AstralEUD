@@ -45,7 +45,10 @@
  - UNIX Systems (유닉스시스템) <br/>
  - Alogorithms (알고리즘) <br/>
  - Computer Architectures (컴퓨터구조) <br/>
+ - Web Programming (웹프로그래밍) <br/>
  - Computer Education Theory (정보·컴퓨터교과교육론) <br/>
+ - Information and Communication Equipment Practice (정보통신기기실습) <br/>
+ - Porgramming and Practice (프로그래밍 및 실습) <br/>
  
  <div align=center><h2>📫 Mail </h2></div>
  
